@@ -7,4 +7,5 @@
 
 This C program is designed to handle operations related to Latin squares. A Latin square is an n x n array filled with n different symbols, each occurring exactly once in each row and exactly once in each column. The program includes functions to read, display, update, and write Latin squares, as well as a main function for testing purposes.
 
+You can genarate a doxygen so that you can view the comments of the program. Download all the files from above and cd to the dir that the files are in,Then type: doxygen Project1.conf.Then in the same dir an html file will be created.Inside ther will be an intex.html.
 */
