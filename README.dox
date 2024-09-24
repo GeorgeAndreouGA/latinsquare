@@ -1,0 +1,10 @@
+/**
+
+@mainpage Project1
+
+@author George Andreou
+
+
+This C program is designed to handle operations related to Latin squares. A Latin square is an n x n array filled with n different symbols, each occurring exactly once in each row and exactly once in each column. The program includes functions to read, display, update, and write Latin squares, as well as a main function for testing purposes.
+
+*/
